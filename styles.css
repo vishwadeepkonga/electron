@@ -1,0 +1,11 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+  }
